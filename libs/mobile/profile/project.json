@@ -1,0 +1,9 @@
+{
+  "name": "mobile-profile",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/mobile/profile/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project mobile-profile --web",
+  "targets": {}
+}

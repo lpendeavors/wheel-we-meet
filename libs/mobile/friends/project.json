@@ -1,0 +1,9 @@
+{
+  "name": "mobile-friends",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/mobile/friends/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project mobile-friends --web",
+  "targets": {}
+}

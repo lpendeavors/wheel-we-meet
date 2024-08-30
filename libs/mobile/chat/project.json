@@ -1,0 +1,9 @@
+{
+  "name": "mobile-chat",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/mobile/chat/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project mobile-chat --web",
+  "targets": {}
+}

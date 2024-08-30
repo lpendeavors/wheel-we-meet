@@ -1,0 +1,9 @@
+{
+  "name": "mobile-places",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/mobile/places/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project mobile-places --web",
+  "targets": {}
+}

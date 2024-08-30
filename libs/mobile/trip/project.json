@@ -1,0 +1,9 @@
+{
+  "name": "mobile-trip",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/mobile/trip/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project mobile-trip --web",
+  "targets": {}
+}

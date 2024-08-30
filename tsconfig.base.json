@@ -15,9 +15,28 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@wheel-we-meet/mapbox-map": ["libs/mapbox-map/src/index.ts"],
-      "@wheel-we-meet/mapbox-navigation": [
-        "libs/mapbox-navigation/src/index.ts"
+      "@wheel-we-meet/admin/dashboard": ["libs/admin/dashboard/src/index.ts"],
+      "@wheel-we-meet/admin/login": ["libs/admin/login/src/index.ts"],
+      "@wheel-we-meet/auth": ["libs/auth/src/index.ts"],
+      "@wheel-we-meet/components/mobile": [
+        "libs/components/mobile/src/index.ts"
+      ],
+      "@wheel-we-meet/components/web": ["libs/components/web/src/index.ts"],
+      "@wheel-we-meet/config": ["libs/config/src/index.ts"],
+      "@wheel-we-meet/mobile/chat": ["libs/mobile/chat/src/index.ts"],
+      "@wheel-we-meet/mobile/friends": ["libs/mobile/friends/src/index.ts"],
+      "@wheel-we-meet/mobile/login": ["libs/mobile/login/src/index.ts"],
+      "@wheel-we-meet/mobile/places": ["libs/mobile/places/src/index.ts"],
+      "@wheel-we-meet/mobile/profile": ["libs/mobile/profile/src/index.ts"],
+      "@wheel-we-meet/mobile/register": ["libs/mobile/register/src/index.ts"],
+      "@wheel-we-meet/mobile/settings": ["libs/mobile/settings/src/index.ts"],
+      "@wheel-we-meet/mobile/trip": ["libs/mobile/trip/src/index.ts"],
+      "@wheel-we-meet/models": ["libs/models/src/index.ts"],
+      "@wheel-we-meet/plugin/mapbox-map": [
+        "libs/plugins/mapbox-map/src/index.ts"
+      ],
+      "@wheel-we-meet/plugin/mapbox-navigation": [
+        "libs/plugins/mapbox-navigation/src/index.ts"
       ]
     }
   },
